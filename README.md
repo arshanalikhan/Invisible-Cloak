@@ -10,5 +10,5 @@ This project creates an "invisibility cloak" effect using OpenCV by replacing a 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arshanlikhan/Invisible-Cloak.git
+   git clone[ https://github.com/arshanlikhan/Invisible-Cloak.git](https://github.com/arshanalikhan/Invisible-Cloak/blob/main/cloak.py)
    cd Invisible-Cloak
